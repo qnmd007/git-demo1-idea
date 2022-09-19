@@ -6,5 +6,6 @@ public class Hello {
         System.out.println("666");
         System.out.println("第三次");
         System.out.println("77777777");
+        System.out.println("master代码:88888");
     }
 }
