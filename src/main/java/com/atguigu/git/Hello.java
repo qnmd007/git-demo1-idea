@@ -9,5 +9,6 @@ public class Hello {
         System.out.println("master代码:88888");
         System.out.println("master2代码:999");
         System.out.println("dev-A分支提交的代码");
+        System.out.println("这个代码新增,推送到github");
     }
 }
